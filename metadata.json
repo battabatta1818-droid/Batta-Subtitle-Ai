@@ -1,0 +1,6 @@
+{
+  "name": "Batta Subtitle AI",
+  "description": "Batta Subtitle AI - Professional Khmer Subtitle Generator for video creators. Ultra-accurate audio speech alignment, 2–3 word natural Khmer segmentation without intra-word spaces, and CapCut-ready SRT export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
